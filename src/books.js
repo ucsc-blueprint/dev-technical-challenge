@@ -1,19 +1,19 @@
 const books = `[
     {
         "bookName": "Percy Jackson and the Olympians",
-        "bookDes": "Lots of Sass mixed with Greek Mythology. Plus it's better than Harry Potter (this can be proven if needed).",
+        "bookDes": "Lots of sass mixed with Greek Mythology. Plus it's better than Harry Potter (this can be proven if needed).",
         "bookImg": "https://m.media-amazon.com/images/I/51LdV0opNvL._SY445_SX342_.jpg",
         "bookURL": "https://www.goodreads.com/series/40736-percy-jackson-and-the-olympians"
     },
     {
         "bookName": "The Naturals",
-        "bookDes": "Muder mystery to get your heart pounding where a high school kid is recruited to the FBI. While profiling criminals can she make sure she stays alive?",
+        "bookDes": "Murder mystery to get your heart pounding where a high school kid is recruited to the FBI. While profiling criminals can she make sure she stays alive?",
         "bookImg": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620015246i/13597723.jpg",
         "bookURL": "https://www.goodreads.com/series/119223-the-naturals"
     },
     {
         "bookName": "A Court of Mist and Fury",
-        "bookDes": "After ignoring all the mature things in this book, kinda of loved the plot. To this day it's my favorite enmies to lovers where he fell first and hard.",
+        "bookDes": "After ignoring all the mature things in this book, kinda loved the plot. To this day it's my favorite enemies to lovers where he fell first and hard.",
         "bookImg": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1487592053i/26073150.jpg",
         "bookURL": "https://www.goodreads.com/book/show/26073150-a-court-of-mist-and-fury"
     },
@@ -25,7 +25,7 @@ const books = `[
     },
     {
         "bookName": "The Land of Stories",
-        "bookDes": "When storybook characters come to life or really falling into the fairy tale land",
+        "bookDes": "When storybook characters come to life or really falling into the fairy tale land.",
         "bookImg": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1326920505i/11607446.jpg",
         "bookURL": "https://www.goodreads.com/series/81462-the-land-of-stories"
     },
@@ -48,7 +48,7 @@ const books = `[
         "bookURL": "https://www.goodreads.com/series/143369-mr-lemoncello-s-library"
     },
     {
-        "bookName": "Michael Vay",
+        "bookName": "Michael Vey",
         "bookDes": "Malfunction in machiene kills babies and gives some electic powers, but now an evil scientists wants to make them his personal army.",
         "bookImg": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348544498i/11337912.jpg",
         "bookURL": "https://www.goodreads.com/series/65809-michael-vey"
