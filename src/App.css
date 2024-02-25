@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(246, 237, 222);
+  color: black;
+  padding: 5%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title {
+  text-align: center;
+}
