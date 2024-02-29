@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/2ziEH2L.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBrZDVnbDFlNHluNWJrb2hpODlseG9mNWE4MjJ0NTYxcmo4c3BpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PaeezfWjT6QYIU5tjy/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 <a href='https://imgur.com/a/2ziEH2L.gif'>GIF created with ScreenToGif </a>
@@ -41,7 +42,7 @@ It took me a little bit of time to figure out how to import a json file into my 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Harshita Bhardwaj]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
