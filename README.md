@@ -24,9 +24,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of final product:
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBrZDVnbDFlNHluNWJrb2hpODlseG9mNWE4MjJ0NTYxcmo4c3BpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PaeezfWjT6QYIU5tjy/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./public/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
