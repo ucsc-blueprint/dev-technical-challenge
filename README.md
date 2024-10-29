@@ -7,9 +7,10 @@ For this challenge some features of the application, and all stylying has been i
 ## Video Walkthrough
 
 Here's a walkthrough of final product:
-
 <img src='./public/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 <a href='https://imgur.com/a/2ziEH2L.gif'>GIF created with ScreenToGif </a>
+
+<a href='https://imgur.com/a/2ziEH2L.gif'>Key </a>
 
