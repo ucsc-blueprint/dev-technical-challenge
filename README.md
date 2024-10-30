@@ -12,5 +12,5 @@ Here's a walkthrough of final product:
 <!-- Replace this with whatever GIF tool you used! -->
 <a href='https://imgur.com/a/2ziEH2L.gif'>GIF created with ScreenToGif </a>
 
-<a href='https://imgur.com/a/2ziEH2L.gif'>Key </a>
+<a href='https://github.com/harshitabha/WEB102-S24-P1-Community-Board'>Key </a>
 
